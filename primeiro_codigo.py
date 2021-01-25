@@ -1,0 +1,2 @@
+class Consegui:
+    a = 'Sim'
