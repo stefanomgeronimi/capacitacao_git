@@ -1,2 +1,0 @@
-class Consegui:
-    a = 'Sim'
